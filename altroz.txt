@@ -1,0 +1,18 @@
+Altroz XE	Petrol	Basic	5.79
+Altroz XM	Petrol	Basic	6.459
+Altroz XM Plus	Petrol	Basic+	6.75
+Altroz XE Diesel	Diesel	Performance	6.99
+Altroz XT	Petrol	Value for Money	7.289
+Altroz XM Diesel	Diesel	Performance	7.609
+Altroz XZ	Petrol	Comfort	7.859
+Altroz XT Turbo	Turbo Petrol	Value for Money and Performance	7.939
+Altroz XZ Option	Petrol	Comfort+	8.009
+Altroz XZ Plus	Petrol	Comfort	8.409
+Altroz XT Diesel	Diesel	Value for Money and Performance	8.439
+Altroz XZ Turbo	Turbo Petrol	Comfort and Performance	8.455
+Altroz XZ Option Turbo	Turbo Petrol	Comfort+ and Performance	8.659
+Altro1z XZ Diesel	Diesel	Comfort and Performance	9.009
+Altroz XZ Plus Turbo	Turbo Petrol	Comfort and Performance	9.059
+Altroz XZ Option Diesel	Diesel	Comfort+ and Performance	9.159
+Altroz XZ Plus Diesel	Diesel	Comfort and Performance	9.559
+		
